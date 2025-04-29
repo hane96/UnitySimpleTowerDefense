@@ -1,2 +1,5 @@
-ProjectSettings/** linguist-vendored
-Packages/** linguist-vendored
+ProjectSettings/* linguist-vendored
+Packages/* linguist-vendored
+
+*.cs linguist-language=C#
+*.shader linguist-language=HLSL
