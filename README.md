@@ -1,7 +1,4 @@
-# SimepleTowerDefense
-
-
-# Unity Tower Defense Game (Small Project)
+# UnitySimpleTowerDefense
 
 這是我從0開始自學unity邊學邊製作的小型練習作品和學習筆記，主要目的是學習unity的基本操作和練習遊戲功能的實作
 
